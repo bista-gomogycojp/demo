@@ -1,0 +1,20 @@
+*.pyc
+.idea
+.vscode
+*/*.pyc
+*/*/*.pyc
+*/migrations/*
+# ./src/static/*
+backend/backend/__pycache__/*
+backend/logobox/__pycache__/*
+backend/categorybox/__pycache__/*
+
+backend/backend/__pycache__/settings.cpython-35.pyc
+backend/categorybox/__pycache__/models.cpython-36.pyc
+backend/categorybox/__pycache__/urls.cpython-36.pyc
+# */static/
+.DS_Store
+.env
+**/.DS_Store
+backend/backend/local_settings.py
+.db_data
